@@ -4,3 +4,12 @@
 
 
 ![alt-text](public/css/roulette.png)
+
+## Technologies Used:
+- HTML
+- EJS
+- CSS
+- node.js
+- MongoDB
+- Mongoose
+- passport.js
